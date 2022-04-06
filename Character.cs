@@ -2,7 +2,7 @@ using System;
 
 namespace demo_inheritance
 {
-  public class Character
+  public abstract class Character
   {
     // attributes
     public string name;
@@ -56,3 +56,10 @@ namespace demo_inheritance
 
   }
 }
+
+// four pillars of OOP
+
+// Inheritance - child extends parent class
+// Polymorphism - all children are still parent type
+// Encapsulation - objects can have private stuff
+// Abstraction - 
