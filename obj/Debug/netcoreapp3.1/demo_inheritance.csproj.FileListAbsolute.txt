@@ -1,0 +1,13 @@
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\bin\Debug\netcoreapp3.1\demo_inheritance.exe
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\bin\Debug\netcoreapp3.1\demo_inheritance.deps.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\bin\Debug\netcoreapp3.1\demo_inheritance.runtimeconfig.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\bin\Debug\netcoreapp3.1\demo_inheritance.runtimeconfig.dev.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\bin\Debug\netcoreapp3.1\demo_inheritance.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\bin\Debug\netcoreapp3.1\demo_inheritance.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\obj\Debug\netcoreapp3.1\demo_inheritance.csprojAssemblyReference.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\obj\Debug\netcoreapp3.1\demo_inheritance.AssemblyInfoInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\obj\Debug\netcoreapp3.1\demo_inheritance.AssemblyInfo.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\obj\Debug\netcoreapp3.1\demo_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\obj\Debug\netcoreapp3.1\demo_inheritance.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\obj\Debug\netcoreapp3.1\demo_inheritance.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.3\demo_inheritance\obj\Debug\netcoreapp3.1\demo_inheritance.genruntimeconfig.cache
