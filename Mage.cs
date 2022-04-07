@@ -3,13 +3,20 @@ using System;
 namespace demo_inheritance
 {
 
-  public class Mage : Character
+  public class Mage : Character, ICastMagic
   {
-    public int mana; 
 
-    public Mage(string n) : base(n, 7, 65, 5, 9) { 
+    public int mana { get; set; }
+    public Mage(string n) : base(n, 7, 65, 5, 9)
+    {
 
-      mana = 200; 
+      mana = 200;
+    }
+
+    public void castSpell(){
+
+      mana -= 10;
+      a.ss($"{this.name} Cast a Spell!");
     }
 
     public override void DealDamage(Character target)

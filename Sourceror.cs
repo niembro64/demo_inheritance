@@ -3,14 +3,23 @@ using System;
 namespace demo_inheritance
 {
 
-  public class Sourceror : Character
+  public class Sourceror : Character, ICastMagic
   {
-    public int mana; 
+    public int mana { get; set; }
+    public Sourceror(string n) : base(n, 7, 60, 5, 10)
+    {
 
-    public Sourceror(string n) : base(n, 7, 60, 5, 10) { 
-
-      mana = 200; 
+      mana = 300;
     }
+
+
+    public void castSpell()
+    {
+
+      mana -= 10;
+      a.ss($"{this.name} Cast a Spell!");
+    }
+
 
     public override void DealDamage(Character target)
     {
