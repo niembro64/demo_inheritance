@@ -8,10 +8,12 @@ namespace demo_inheritance
 
     public override void DealDamage(Character target)
     {
-      h.p("Inside Warrior DealDamage");
-      target.ChangeHealth(strength * -2);
+      a.ss("Warrior DealDamage");
 
-      h.p($"{this.name} strikes {target.name} dealing {this.strength}");
+      int amount = strength * -2;
+      target.ChangeHealth(amount);
+
+      a.ss($"{this.name} strikes {target.name} dealing {-amount}");
     }
   }
 }

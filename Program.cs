@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace demo_inheritance
 {
@@ -7,11 +8,21 @@ namespace demo_inheritance
     static void Main(string[] args)
     {
       // Character c1 = new Character("Nichole", 5, 50, 8, 5);
-      Warrior w1 = new Warrior("NicholeW");
+      Warrior cap = new Warrior("Captain America");
+      Sourceror dr = new Sourceror("Dr. Strange");
 
-      Console.Write(w1.strength);
-      h.p();
-      Console.Write(w1.Print());
+      cap.Print();
+      dr.Print();
+      dr.DealDamage(cap);
+      cap.Print();
+      dr.Print();
+      cap.DealDamage(dr);
+      cap.Print();
+      dr.Print();
+
+      List<Warrior> allWarriors = new List<Warrior>();
+
+
     }
   }
 }
