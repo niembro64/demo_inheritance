@@ -26,13 +26,9 @@ namespace demo_inheritance
     {
       a.sss();
       a.ss($"        Name: {this.name}");
-    
       a.ss($"       Level: {this.level}");
-
       a.ss($"      Health: {this.health}");
-  
       a.ss($"    Strength: {this.strength}");
-
       a.ss($"Intelligence: {this.intelligence}");
       a.sss();
       return this;
